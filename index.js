@@ -57,5 +57,5 @@ sortAll.addEventListener("click", function (event) {
     const number = numbers.shift();
     categorizeNumber(number);
   }
-  printNumbers(); // Update the display
+  printNumbers();
 });
